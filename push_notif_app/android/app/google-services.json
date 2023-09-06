@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094227977537",
+    "project_id": "ocs-recruitment-tejas",
+    "storage_bucket": "ocs-recruitment-tejas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094227977537:android:ab951550ac6abbd26fedc0",
+        "android_client_info": {
+          "package_name": "com.theninja.push_notif_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094227977537-mb9qt8at4bg6nr41gpb8qfsub8nr048a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeHLJ39nZhHPcY1bDHPi1B0JNl8H7JTg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094227977537-mb9qt8at4bg6nr41gpb8qfsub8nr048a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
